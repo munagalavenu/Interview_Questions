@@ -1,0 +1,15 @@
+Localization:
+Localization refers to the adaptation of a product, application or document content to meet the language, cultural and other requirements of a specific target market (a locale).
+Internationalization:
+Definitions of internationalization vary. This is a high-level working definition for use with W3C Internationalization Activity material. Some people use other terms, such as globalization to refer to the same concept.
+Internationalization is the design and development of a product, application or document content that enables easy localization for target audiences that vary in culture, region, or language.
+Internationalization is often written in English as i18n, where 18 is the number of letters between i and n in the English word.
+
+Go through the w3 org localization specifications for HTML, CSS through below link
+https://www.w3.org/International/techniques/authoring-html
+
+About i18next:
+To localize reactJS application, i18next library is best on to know about more go through the below link
+Instllation
+Usage
+https://lokalise.com/blog/how-to-internationalize-react-application-using-i18next/
